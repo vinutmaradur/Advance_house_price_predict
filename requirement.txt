@@ -1,5 +1,0 @@
-streamlit
-sklearn
-scikit-learn==1.4.2
-pandas
-numpy
